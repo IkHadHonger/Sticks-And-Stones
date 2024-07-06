@@ -1,0 +1,8 @@
+WeaponData
+{
+	MP_BASE
+	{
+		"melee_damage"									"30"
+	}
+
+}
